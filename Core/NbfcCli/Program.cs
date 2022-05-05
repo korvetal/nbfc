@@ -1,6 +1,6 @@
 ﻿using clipr;
 using NbfcCli.CommandLineOptions;
-using NbfcCli.NbfcService;
+using NbfcClient.NbfcService;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
